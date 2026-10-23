@@ -76,7 +76,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-learnly.svg" alt="Learnly tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
@@ -98,7 +98,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-ev-emulator.svg" alt="EV Charging Emulator tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
@@ -121,7 +121,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-pheri.svg" alt="Pheri tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
@@ -144,7 +144,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-lifeos.svg" alt="LifeOS tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
@@ -167,7 +167,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-ai-matcher.svg" alt="AI Profile Matching Engine tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
@@ -190,7 +190,7 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-graphql.svg" alt="GraphQL Exploration tech stack" />
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
+<summary><b>Click to expand</b> · <code>Challenges</code> · <code>Tech Stack</code> · <code>Outcome</code></summary>
 
 <br/>
 
