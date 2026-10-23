@@ -36,10 +36,7 @@ My work spans production applications, real-time systems, and AI-powered workflo
 I use AI-assisted development tools as part of my workflow, but the interesting part isn’t generating code. It’s understanding the system, making sound decisions, and shipping something that works.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nodejs,go,postgres,prisma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,go,postgres,prisma&theme=light" alt="React, TypeScript, Node.js, Go, PostgreSQL, Prisma" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-about.svg" alt="React, TypeScript, Node.js, Go, PostgreSQL, Prisma" />
 </p>
 
 <p align="center">
@@ -76,13 +73,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** A full-stack education platform integrating course discovery, secure payments, and an embedded AI assistant.
 - **Why I built it:** I wanted to move beyond passive video-playing apps and engineer a complete, end-to-end learning journey from initial checkout to active, AI-assisted study within a single ecosystem.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,postgres,prisma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres,prisma&theme=light" alt="Learnly tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-learnly.svg" alt="Learnly tech stack" />
 
-<details open>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<details>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
@@ -101,13 +95,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** A software-based emulator that models virtual EV chargers, manages session state transitions, and streams live telemetry to a synchronized dashboard.
 - **Why I built it:** I wanted to understand the internal mechanics of EV infrastructure beyond just reading dashboard metrics. Building a virtual system allowed me to explore complex charger behaviors and telemetry edge cases without being bottlenecked by physical hardware.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nodejs,sqlite&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,sqlite&theme=light" alt="EV Charging Emulator tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-ev-emulator.svg" alt="EV Charging Emulator tech stack" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
@@ -127,13 +118,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** A cross-platform mobile mobility application that orchestrates the end-to-end local journey between passengers and drivers.
 - **Why I built it:** I wanted to build software that interacts with the physical world. Pheri was an exercise in translating a complex, two-sided marketplace concept into a working mobile experience, dealing heavily with real-world constraints rather than just data on a screen.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nodejs,postgres&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres&theme=light" alt="Pheri tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-pheri.svg" alt="Pheri tech stack" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
@@ -153,13 +141,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** A full-stack personal management system that centralizes goals, daily tasks, habit tracking, and reflections into a single interconnected application.
 - **Why I built it:** My workflows were fragmented across multiple disconnected tools for tasks, notes, and planning. I wanted to engineer a single source of truth that adapted to how I actually work, rather than forcing myself to conform to off-the-shelf software.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,postgres,prisma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,prisma&theme=light" alt="LifeOS tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-lifeos.svg" alt="LifeOS tech stack" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
@@ -179,13 +164,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** An experimental retrieval augmented generation (RAG) system that leverages vector embeddings to intelligently parse, rank, and match candidate profiles based on deep context.
 - **Why I built it:** I wanted to evaluate where AI genuinely improves a software workflow. Instead of blindly wrapping a model around a dataset, I used this to test how semantic retrieval can solve edge cases that traditional keyword-based filtering misses.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,gcp&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,gcp&theme=light" alt="AI Profile Matching Engine tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-ai-matcher.svg" alt="AI Profile Matching Engine tech stack" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
@@ -205,13 +187,10 @@ I use AI-assisted development tools as part of my workflow, but the interesting 
 - **What it is:** A full-stack delivery and order management application designed to explore how GraphQL unifies client data fetching, business logic, and relational databases beneath a single API surface.
 - **Why I built it:** I wanted to understand GraphQL in a realistic context rather than through isolated tutorials. The delivery domain with its complex relational ties between users, orders, and couriers provided the perfect testing ground for deep data fetching, mutations, and role based access control.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql,nodejs,ts,postgres,prisma,react&theme=dark">
-  <img src="https://skillicons.dev/icons?i=graphql,nodejs,ts,postgres,prisma,react&theme=light" alt="GraphQL Exploration tech stack" />
-</picture>
+<img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/skills-graphql.svg" alt="GraphQL Exploration tech stack" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/Click_to_expand-Engineering_Challenges_%C2%B7_Tech_Stack_%C2%B7_Outcome-2F81F7?style=flat-square" alt="Click to expand" /></summary>
+<summary><img src="https://raw.githubusercontent.com/sswarnava/sswarnava/main/assets/expand.svg" width="420" alt="Click to expand" /></summary>
 
 <br/>
 
